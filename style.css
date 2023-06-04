@@ -45,3 +45,28 @@ nav{
     border-bottom: 3px solid rgb(3, 153, 3);
     cursor: pointer;
 }
+
+.last-nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+}
+.manu-item{
+    margin-right: 50px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: all 0.2s linear;
+    -webkit-transition: all 0.2s linear;
+    -moz-transition: all 0.2s linear;
+    -ms-transition: all 0.2s linear;
+    -o-transition: all 0.2s linear;
+}
+.manu-item:hover{
+    color: green;
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
