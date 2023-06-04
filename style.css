@@ -5,3 +5,26 @@
     margin: 0;
     font-family: 'Montserrat', sans-serif;
 }
+
+
+nav{
+    color: black;
+    padding: 20px 50px;
+}
+
+.first-nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.search{
+    display: flex;
+    align-items: center;
+    background-color: lightgray;
+    padding: 10px 20px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
