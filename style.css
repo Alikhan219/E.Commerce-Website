@@ -207,6 +207,36 @@ nav{
 
 
 /********************************
-        Starting Slider Section
+        Starting Features Section
 ********************************/
 
+
+
+.features-conatainer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+
+}
+.feature-item{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   text-align: center;
+}
+.feature-Icon{
+    width: 60px;
+    height: 60px;
+}
+
+.feature-Title{
+    font-size: 20px;
+    font-weight: 600;
+    margin: 15px;
+}
+.feature-Desc{
+     color: gray;
+     width: 50%;
+     height: 100px;
+}
