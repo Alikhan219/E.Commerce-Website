@@ -6,6 +6,7 @@
     font-family: 'Montserrat', sans-serif;
 }
 
+
 /********************************
         Starting Navbar Section
 ********************************/
@@ -86,6 +87,7 @@ nav{
 
     background: url("./pxfuel (3).jpg");
     clip-path: polygon(0 0, 100% 0, 100% 100%, 50% 99%, 50% 99%, 0 100%);
+    overflow: hidden;
 }
 .slidermain{
     display: flex;
@@ -198,3 +200,13 @@ nav{
    .s-item:nth-child(5) .s-price{
       color: rgb(197, 5, 5);
    }
+
+/********************************
+        End Slider Section
+********************************/
+
+
+/********************************
+        Starting Slider Section
+********************************/
+
