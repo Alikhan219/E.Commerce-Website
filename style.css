@@ -173,13 +173,14 @@ nav{
     background-color: rgb(221, 184, 128);
  }
  .s-item:nth-child(2) .slide-bg{
-     background-color: rgb(147, 165, 42);
+    background-color: rgb(2, 10, 82);
+     
   }
   .s-item:nth-child(3) .slide-bg{
      background-color: rgb(156, 4, 4);
   }
   .s-item:nth-child(4) .slide-bg{
-     background-color: rgb(2, 10, 82);
+    background-color: rgb(147, 165, 42);
   }
   .s-item:nth-child(5) .slide-bg{
      background-color: rgb(219, 219, 219);
@@ -189,13 +190,14 @@ nav{
      color: rgb(180, 149, 102);
   }
   .s-item:nth-child(2) .s-price{
-      color: rgb(147, 165, 42);
+    color: rgb(2, 10, 82);
+      
    }
    .s-item:nth-child(3) .s-price{
       color: rgb(156, 4, 4);
    }
    .s-item:nth-child(4) .s-price{
-      color: rgb(2, 10, 82);
+    color: rgb(147, 165, 42);
    }
    .s-item:nth-child(5) .s-price{
       color: rgb(197, 5, 5);
@@ -293,6 +295,7 @@ nav{
     background-color: burlywood;
     margin-right:10px ;
     cursor: pointer;
+    box-shadow: 2px 2px 4px rgba(0,0,0,0.5);
 }
 .color:nth-child(2){
     background-color: rgb(104, 177, 104);
